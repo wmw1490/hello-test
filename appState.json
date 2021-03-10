@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "0d5ccf9a-8d7d-43b6-a257-5d954353ffe9": {
+        "id": "0d5ccf9a-8d7d-43b6-a257-5d954353ffe9",
+        "parent": null,
+        "name": "hello-test.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "hello-test.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 31
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "helloTest"
+        },
+        "triggers": [],
+        "lastUpdated": 1615394564151
+      }
+    },
+    "openFiles": [
+      "0d5ccf9a-8d7d-43b6-a257-5d954353ffe9"
+    ],
+    "currentFileId": "0d5ccf9a-8d7d-43b6-a257-5d954353ffe9",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.0",
+    "projectName": "hello-test",
+    "projectDescription": "Sample project to demo for intern",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1615394738265
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "hello-test",
+      "url": "https://github.com/wmw1490/hello-test"
+    }
+  }
+}
